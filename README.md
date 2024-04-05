@@ -7,7 +7,7 @@
 
 Nama folder pengerjaan: 
 
-- /card
-- /grid
-- /listview
-- /stack
+- /lib/card/*.dart
+- /lib/grid/*.dart
+- /lib/listview/*.dart
+- /lib/stack/*.dart
